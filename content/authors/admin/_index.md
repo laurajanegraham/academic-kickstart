@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Fellow in Spatial Modelling"
+role = "Birmingham Fellow | IIASA-NERC Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Southampton", url = "" } ]
+organizations = [ { name = "University of Birmingham", url = "" },{ name = "University of Birmingham", url = "IIASA, Vienna" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Computational / spatial ecologist interested in understanding the implications of global environmental change"
