@@ -89,9 +89,4 @@ I am a computational/spatial ecologist interested in understanding how anthropog
 
 I am particularly interested in using novel statistical methods and heterogeneous sources of data to answer applied and theoretical questions. I was previously a mathematician and database developer, and apply skills learned there to answer ecological questions. 
 
-My PhD research focussed on applying metapopulation models to urban planning problems; particularly in the context of the ecological impact assessment. 
-
-I then worked as a Postdoctoral Research Associate at Stony Brook University NY, where I was modelling impacts of environmental change on hummingbird distributions and movements. 
-
-I am currently a Postdoctoral Research Fellow in Spatial Modelling at University of Southampton. My current research is focussed on finding general scaling rules for ecosystem service mapping to understand how land use and policy changes may affect the provision of ecosystem services.
-
+I am currently working at the University of Birmingham in the role of Birmingham Fellow. The first three years of this will be spent working on the IIASA-NERC funded project *A complex-systems approach to improve understanding of the biodiversity-landscape structure relationship*. 

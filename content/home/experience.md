@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Birmingham Fellow | IIASA-NERC Research Fellow"
+  company = "University of Birmingham"
+  location = "Birmingham, UK"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  Leading the IIASA-NERC funded project *A complex-systems approach to improve understanding of the biodiversity-landscape structure relationship*
+  """
+[[experience]]
   title = "Research Fellow in Spatial Modelling"
   company = "University of Southampton"
   company_url = ""
   location = "Southampton, UK"
   date_start = "2016-11-01"
-  date_end = ""
+  date_end = "2020-05-31"
   description = """
   Working on the ERC funded project *SCALEFORES: Developing a science of scale for ecosystem services*
   
@@ -39,6 +48,7 @@ date_format = "Jan 2006"
   date_end = "2016-10-31"
   description = """
   Working on the NASA funded project *Combining time-series data, ecology and physiology to predict the consequences of climate change on hummingbird diversity*
+  
   PI: Catherine Graham
 """
 
